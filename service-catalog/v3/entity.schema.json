@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema",
-  "$id": "https://raw.githubusercontent.com/DataDog/schema/main/service-catalog/v3/entity.schema.json",
+  "$id": "https://raw.githubusercontent.com/ctmillerlin/datadog-schema/main/service-catalog/v3/entity.schema.json",
   "description": "The base shape of a Datadog software entity",
   "examples": [],
   "type": "object",

@@ -31,4 +31,4 @@ Check out our [onboarding guide](https://docs.datadoghq.com/tracing/service_cata
 * [Validating Service Definition YAMLs](https://docs.datadoghq.com/tracing/service_catalog/guides/validating-service-definition/)
 * [Manage Service Catalog Entries with the Service Definition JSON Schema](https://www.datadoghq.com/blog/manage-service-catalog-categories-with-service-definition-json-schema/)
 * [Troubleshooting Guide](https://docs.datadoghq.com/tracing/service_catalog/troubleshooting)
-* [JSON Schema Store](https://raw.githubusercontent.com/DataDog/schema/main/service-catalog/version.schema.json)
+* [JSON Schema Store](https://raw.githubusercontent.com/ctmillerlin/datadog-schema/main/service-catalog/version.schema.json)
